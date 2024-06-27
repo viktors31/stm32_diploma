@@ -3,3 +3,5 @@
 Разработано с использованием CMSIS и HAL (базовая инициализация в CubeIDE).
 Функционал для следующих модулей: DHT11, LCD1602, SSD1306, BMP180, Servo MG90S, I2C in Master Mode и другие.
 (В будущем хотелось бы имитацию распределенной системы управления, если будет время и необходимость).
+
+![alt text](https://github.com/viktors31/stm32_diploma/blob/main/IN.%20BOARD%20PHOTO%201.jpg)
