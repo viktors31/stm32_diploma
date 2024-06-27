@@ -1,0 +1,7 @@
+../Core/Src/LCD1602_driver.c:11:6:LCD_SendData	1
+../Core/Src/LCD1602_driver.c:26:6:LCD_Init	1
+../Core/Src/LCD1602_driver.c:38:6:LCD_Backlight	1
+../Core/Src/LCD1602_driver.c:44:6:LCD_Print	2
+../Core/Src/LCD1602_driver.c:52:6:LCD_CursorInBegin	1
+../Core/Src/LCD1602_driver.c:57:6:LCD_SetCursor	1
+../Core/Src/LCD1602_driver.c:64:6:LCD_Clear	1

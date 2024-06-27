@@ -1,0 +1,4 @@
+../Core/Src/JR_Driver.c:5:6:Joystick_getCoords	16	static
+../Core/Src/JR_Driver.c:13:9:Joystick_button	4	static
+../Core/Src/JR_Driver.c:18:10:Regulator_getValue	4	static
+../Core/Src/JR_Driver.c:25:10:Mic_getValue	4	static

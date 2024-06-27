@@ -1,0 +1,6 @@
+../Core/Src/I2C.c:6:6:I2C_Init	1
+../Core/Src/I2C.c:36:6:I2C_Master_Send	5
+../Core/Src/I2C.c:61:6:I2C_Master_SendReg	6
+../Core/Src/I2C.c:89:6:I2C_Master_Read	7
+../Core/Src/I2C.c:123:6:I2C_Master_ReadReg	8
+../Core/Src/I2C.c:160:6:I2C_Scan	7

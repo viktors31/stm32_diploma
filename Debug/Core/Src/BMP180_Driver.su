@@ -1,0 +1,9 @@
+../Core/Src/BMP180_Driver.c:16:9:BMP_ReadRegister	24	static
+../Core/Src/BMP180_Driver.c:24:6:BMP_WriteRegister	24	static
+../Core/Src/BMP180_Driver.c:30:6:BMP_SetOccurancy	16	static
+../Core/Src/BMP180_Driver.c:35:6:BMP_ReadCalibration	16	static
+../Core/Src/BMP180_Driver.c:50:6:BMP_GetTempL	40	static
+../Core/Src/BMP180_Driver.c:62:7:BMP_GetTemp	8	static
+../Core/Src/BMP180_Driver.c:67:6:BMP_GetPressure	64	static
+../Core/Src/BMP180_Driver.c:101:6:BMP_GetAltitude	16	static
+../Core/Src/BMP180_Driver.c:108:6:BMP_Reset	8	static

@@ -1,0 +1,6 @@
+../Core/Src/I2C.c:6:6:I2C_Init	4	static
+../Core/Src/I2C.c:36:6:I2C_Master_Send	24	static
+../Core/Src/I2C.c:61:6:I2C_Master_SendReg	24	static
+../Core/Src/I2C.c:89:6:I2C_Master_Read	24	static
+../Core/Src/I2C.c:123:6:I2C_Master_ReadReg	24	static
+../Core/Src/I2C.c:160:6:I2C_Scan	32	static
